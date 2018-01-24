@@ -1,11 +1,11 @@
 # Bloodline_with_linked_list
-C++ bloodline project with linked list
+C++ bloodline with linked list data structure
 
 # Demo
 ![Demo of exe file](http://s8.picofile.com/file/8317585192/exefile.png)
 
 # Function prototypes
-```
+```c++
     void   calculate_numberofchilds_average           (int);
     void   calculate_numberofchilds_average_bygender  (int);
     void   calculate_age_average                      (int);
@@ -20,4 +20,4 @@ C++ bloodline project with linked list
     void   search_person_byid                         (int);
 ```
 
-Code by : Farid Froozan [(FaridFr.ir](http://faridfr.ir) as university project ( Data Structure )
+Code by : Farid Froozan [(FaridFr.ir)](http://faridfr.ir) as university project ( Data Structure )
