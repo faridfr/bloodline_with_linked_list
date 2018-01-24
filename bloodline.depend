@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1453507569 source:c:\users\froozan\desktop\new folder\bloodline\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+
